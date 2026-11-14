@@ -8,6 +8,12 @@ Altermatic only alters Pals that spawn in the world, so packs such as
 but the status screen still shows the stock Pal. This mod fills that gap. It does not hook into
 Altermatic: it reads the same SwapJSON files and applies them to the preview itself.
 
+> **Disclaimer: this mod was vibe coded.** It was written with an AI assistant and
+> shaped by trial and error in game, not by someone who knows Palworld's or UE4SS's
+> internals. It works on my setup (Steam on Linux/Proton, the official mod loader,
+> Shining Luckies), but it hasn't been reviewed or tested much beyond that. Use it
+> at your own risk, and keep backups of your saves.
+
 ## Requirements
 
 - Palworld with UE4SS (the Workshop "UE4SS Experimental (Palworld)" used by the official mod loader)
